@@ -14,8 +14,8 @@ TODO
 1. yarn
 - Installation: [link](https://classic.yarnpkg.com/en/docs/install#windows-stable)
 ```shell
-# init the project using
-yarn create react-app my-app
+# init the project in typescript
+yarn create react-app my-app --template typescript
 
 # start project
 # Runs the app in the development mode.
