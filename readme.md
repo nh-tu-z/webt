@@ -12,6 +12,7 @@ TODO
 ### Technical instruction
 
 1. yarn
+
 - Installation: [link](https://classic.yarnpkg.com/en/docs/install#windows-stable)
 ```shell
 # init the project in typescript
@@ -39,4 +40,11 @@ yarn build
 
 # Note: this is a one-way operation. Once you eject, you can't go back!
 yarn eject
+```
+
+2 antd
+
+- Installation: 
+```shell
+yarn add antd
 ```
